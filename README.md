@@ -3,6 +3,10 @@ Description: Convert text-based documents into MP3 audio files using this Python
 URL:
 
 github: https://github.com/dibXpert
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0bd72d823263dfe532d8adaef6b7fa031fe45b57
 
 How It Works
 Input: Provide a text-based document in one of the supported formats: .txt, .docx, or .pdf.
