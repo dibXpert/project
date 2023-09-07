@@ -1,0 +1,1 @@
+Hi, we are testing the text to audio with text.txt file. the program works fine.
