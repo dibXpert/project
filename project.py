@@ -4,7 +4,7 @@ from pypdf import PdfReader
 import docx
 
 
-# check if file and extension exist
+# check if file and extension exist or not
 def check_file_existence_and_extension(file_location):
     if not os.path.exists(file_location):
         return False, "File does not exist."
@@ -58,7 +58,7 @@ def save_audio(text, file_location):
 
 
 def main():
-    # ask for file
+    # ask user for a complete file location and extension
     file_location = input("Enter file location [.txt, .docx, .pdf]: ")
     exists, error_message = check_file_existence_and_extension(file_location)
 

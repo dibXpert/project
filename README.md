@@ -1,9 +1,8 @@
-Title: Text-to-Speech (TTS) File Converter
+Title: Text to Audio
 Description: Convert text-based documents into MP3 audio files using this Python-based Text-to-Speech (TTS) File Converter. Simply provide a text file, a Word document, or a PDF, and the tool will transform the text into speech and save it as an MP3 audio file.
 URL:
 
 github: https://github.com/dibXpert
-linkedin: https://www.linkedin.com/in/nuradiba-mohd-ali-6b256825b/
 
 How It Works
 Input: Provide a text-based document in one of the supported formats: .txt, .docx, or .pdf.
